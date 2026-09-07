@@ -1,0 +1,51 @@
+{
+  "template": "tech_reveal_explainer",
+  "derived_from": "5 Varun Mayya Shorts, 1.4M to 11.2M views",
+  "totalWordBudget": 150,
+  "beats": [
+    {
+      "name": "Cold reveal",
+      "purpose": "Name the actor and the impossible-sounding achievement in one sentence. The full claim lands in the first line. No greeting, no self-introduction, no teasing, no stating what the video will cover.",
+      "wordBudget": 15
+    },
+    {
+      "name": "Pivot to how",
+      "purpose": "A short turn from what happened to how it actually works. This is the promise that keeps the viewer past five seconds.",
+      "wordBudget": 12
+    },
+    {
+      "name": "Mechanism",
+      "purpose": "The technical explanation in three or four concrete steps, naming specific components, models or parts. This is the bulk of the video and the actual content.",
+      "wordBudget": 68
+    },
+    {
+      "name": "Escalation",
+      "purpose": "One further layer that raises the stakes. The detail that is more surprising than the main claim itself.",
+      "wordBudget": 22
+    },
+    {
+      "name": "Hard numbers",
+      "purpose": "Specific figures. Price, specs, scale, money, dates. Credibility ballast.",
+      "wordBudget": 15
+    },
+    {
+      "name": "Zoom out",
+      "purpose": "One line of significance at industry or category level. Never about the product itself.",
+      "wordBudget": 12
+    },
+    {
+      "name": "Sign-off",
+      "purpose": "Under five words, or a single short question back to the viewer.",
+      "wordBudget": 6
+    }
+  ],
+  "rules": [
+    "Never introduce yourself or greet the viewer",
+    "Never state what the video is about or what it will cover, just start",
+    "Every claim carries a named entity or a specific number",
+    "The how is the content, the what is only the hook",
+    "No filler transitions like so basically, let me explain, or imagine this",
+    "Sign-off is under five words",
+    "Total must be close to 150 words, never more"
+  ]
+}
